@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Blackout screens]
+"Position"="Top"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Blackout screens\command]
+@="\"C:\\Users\\smoll\\BlackoutOverlay\\bin\\Release\\net8.0-windows\\BlackoutOverlay.exe\" 2500"
