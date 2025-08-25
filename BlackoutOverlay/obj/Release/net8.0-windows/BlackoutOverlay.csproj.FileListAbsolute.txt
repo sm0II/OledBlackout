@@ -1,0 +1,14 @@
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\bin\Release\net8.0-windows\BlackoutOverlay.exe
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\bin\Release\net8.0-windows\BlackoutOverlay.deps.json
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\bin\Release\net8.0-windows\BlackoutOverlay.runtimeconfig.json
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\bin\Release\net8.0-windows\BlackoutOverlay.dll
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\bin\Release\net8.0-windows\BlackoutOverlay.pdb
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\obj\Release\net8.0-windows\BlackoutOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\obj\Release\net8.0-windows\BlackoutOverlay.AssemblyInfoInputs.cache
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\obj\Release\net8.0-windows\BlackoutOverlay.AssemblyInfo.cs
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\obj\Release\net8.0-windows\BlackoutOverlay.csproj.CoreCompileInputs.cache
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\obj\Release\net8.0-windows\BlackoutOverlay.dll
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\obj\Release\net8.0-windows\refint\BlackoutOverlay.dll
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\obj\Release\net8.0-windows\BlackoutOverlay.pdb
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\obj\Release\net8.0-windows\BlackoutOverlay.genruntimeconfig.cache
+C:\Users\smoll\BlackoutOverlayV2\BlackoutOverlay\obj\Release\net8.0-windows\ref\BlackoutOverlay.dll
